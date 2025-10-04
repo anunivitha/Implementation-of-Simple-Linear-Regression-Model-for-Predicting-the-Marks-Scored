@@ -69,7 +69,6 @@ b
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 <img width="375" height="414" alt="Screenshot 2025-10-04 at 10 00 37 AM" src="https://github.com/user-attachments/assets/d19ec2f6-1ad3-4f82-88ba-67272ffde349" />
 <img width="600" height="502" alt="Screenshot 2025-10-04 at 10 00 48 AM" src="https://github.com/user-attachments/assets/b0fff9cd-392d-4569-b2b5-f3aa2af865be" />
 <img width="259" height="408" alt="Screenshot 2025-10-04 at 10 00 56 AM" src="https://github.com/user-attachments/assets/8d60670c-5263-420c-be04-817ef55a8b04" />
